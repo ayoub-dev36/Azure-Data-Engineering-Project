@@ -31,7 +31,7 @@ Below is the high-level architecture illustrating key components and data flow:
 - Synapse serves analytical data
 - Power BI visualizes insights
 
----git 
+---
 
 ## 🔄 Pipeline Flow
 
@@ -164,13 +164,7 @@ Azure-Data-Engineering-Project/
 ## 👤 Author
 
 **Ayoub Bakkouri**  
-Data Engineer | Azure | BI
+Data Engineer | Analyst | BI
 
 LinkedIn: Ayoub BAKKOURI
 GitHub: ayoub-dev36
-
----
-
-## 📌 Acknowledgements
-
-Inspiration and structure adapted from the Azure end-to-end data engineering project by **lukejbyrne**. :contentReference[oaicite:3]{index=3}
