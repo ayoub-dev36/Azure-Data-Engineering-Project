@@ -57,7 +57,7 @@ Below is the high-level architecture illustrating key components and data flow:
 ✔ Azure Synapse Analytics – analytical data warehouse  
 ✔ Azure Key Vault & Azure AD – secure credentials & access  
 ✔ Power BI – interactive dashboards  
-✔ SQL Server – source data system :contentReference[oaicite:1]{index=1}
+✔ SQL Server – source data system
 
 ---
 
@@ -100,26 +100,28 @@ The report highlights:
 
 ## 📁 Project Structure
 
+```
 Azure-Data-Engineering-Project/
 │
 ├── docs/
-│ ├── architecture.png
-│ ├── ADF_pipeline.png
-│ └── powerbi_dashboard.png
+│   ├── architecture.png
+│   ├── ADF_pipeline.png
+│   └── powerbi_dashboard.png
 │
 ├── data_ingestion/
-│ ├── adf_pipelines/
+│   └── adf_pipelines/
 │
 ├── data_transformation/
-│ ├── databricks_notebooks/
+│   └── databricks_notebooks/
 │
 ├── SQL/
-│ ├── queries/
+│   └── queries/
 │
 ├── visualization/
-│ ├── powerbi/
+│   └── powerbi/
 │
-├── README.md
+└── README.md
+```
 
 
 ---
@@ -148,7 +150,7 @@ Azure-Data-Engineering-Project/
 ✔ Automated ELT with parameterized ADF pipelines  
 ✔ Dynamic PySpark transformations in Databricks  
 ✔ Synapse Analytics for high-performance queries  
-✔ Secure governance with Azure AD & Key Vault :contentReference[oaicite:2]{index=2}
+✔ Secure governance with Azure AD & Key Vault
 
 ---
 
