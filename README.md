@@ -31,7 +31,7 @@ Below is the high-level architecture illustrating key components and data flow:
 - Synapse serves analytical data
 - Power BI visualizes insights
 
----
+---git 
 
 ## 🔄 Pipeline Flow
 
